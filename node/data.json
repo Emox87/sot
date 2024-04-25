@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "area": "Montana",
+    "phone": 5012
+  },
+  {
+    "firstName": "Bianca",
+    "lastName": "Smith",
+    "area": "Lom",
+    "phone": 5441
+  }
+]
