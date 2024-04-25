@@ -1,0 +1,31 @@
+form {
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+input[class="objectID"],
+input[class="objectName"],
+#dispatcher,
+#location {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  display: block;
+}
+
+button[type="submit"] {
+  background-color: rgb(190, 195, 190);
+  color: black;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem;
+  display: block;
+  margin: 1rem 0;
+}
+
+button[type="submit"]:hover {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}

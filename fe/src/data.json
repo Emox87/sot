@@ -1,0 +1,19 @@
+const testData = [
+  {
+    "firstName": "John",
+    "secondName": "Doe",
+    "age": 22
+  },
+  {
+    "firstName": "Bianca",
+    "secondName": "Smith",
+    "age": 33
+  },
+  {
+    "firstName": "Julia",
+    "secondName": "Roberts",
+    "age": 44
+  }
+]
+
+export testData;
